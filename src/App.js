@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import uuid from 'uuid';
-import $ from 'jquery';
+// import $ from 'jquery';
 import { Container, Row, Col } from 'reactstrap';
 import Projects from './components/Projects';
 import Todos from './components/Todos';
